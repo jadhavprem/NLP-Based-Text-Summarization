@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annual Report 2020 Siemens Limited 5
+
+Dear Shareholders, 
+During the financial year 2020, the sudden outbreak of the COVID-19 pandemic together 
+with existing geo-political tensions impacted businesses and economies across the world. 
+The business environment remained volatile and challenging, particularly impacting 
+manufacturing growth that slowed down across several sectors such as automobile, 
+energy, infrastructure, agriculture, travel and severely impacted the small and medium 
+scale enterprises as also government spending. Further, the lockdown in April and May 
+2020 impacted production activity and supply chains across the country and in many 
+parts of the world as well. The Company’s performance was impacted mainly on account 
+of a disruption in the supply chain, capacity under-utilization, logistics-related issues as 
+well as the challenges related to migrant workers.
+Despite the pressures from global market conditions, India has over the years continued 
+to remain one of the most resilient and attractive destinations for investment and I am 
+convinced that India’s intrinsic growth potential remains intact even though it may have 
+shifted on timelines due to the pandemic.
+
+With Siemens’ portfolio of Energy, Mobility, Digital Industries and Smart Infrastructure coupled with Siemens’ leadership role in 
+Digitalization across all these businesses, Siemens Limited continues to be well-positioned to meet the needs of India. 
+
+Financial Performance from continuing operations – Highlights 
+For the financial year ended 30th September 2020, the Company received New Orders valued at ` 107,517 million, a 
+13.8 percent decrease over ` 124,744 million in the financial year ended 30th September 2019. The Order Backlog as of  
+30th September 2020 stood at ` 123,596 million. Sales (excluding Other operating revenues) were down by 24.3 percent to  
+` 95,808 million, compared to ` 126,487 million in the previous year. 
+Profits from Operations stood at ` 7,399 million compared to ` 13,135 million in the previous year. For the year ended  
+30th September 2020, the Company’s Profit before Tax stood at ` 10,206 million compared to ` 16,963 million in the previous 
+year, decrease of 39.8 percent. The Profit after Tax for the year was ` 7,574 million, decrease by 32.6 percent compared to  
+` 11,231 million in the previous year. 
+The Board of Directors of the Company has recommended a dividend of ` 7/- per equity share of the face value of ` 2/- each for 
+the Financial Year ended 30th September 2020. 
+
+Business Performance – Highlights
+From an operational perspective, the Company continued to focus on profitable growth, introducing innovative solutions to the 
+market and enhancing its digitalization offerings across all its business segments.
+Among the key highlights during the financial year, the Company took strides towards finding solutions to the nation’s energy 
+challenges when it signed a Memorandum of Understanding with NTPC Limited and TERI. The MOU is aimed at identifying, 
+evaluating and setting up reference use cases of hydrogen sector-coupling for various upstream and downstream applications. 
+The Company signed another MoU with TERI for collaboration on technologies to support the energy transition in India 
+including sector-coupling. In addition, the Company successfully implemented an efficient power supply system with advanced 
+passenger safety features for Kolkata Metro Rail Corporation Limited (KMRCL). The Central Park Depot of Kolkata Metro will also 
+be equipped with advanced Supervisory Control and Data Acquisition system (SCADA) and Operation Control Centre supplied 
+by the company, contributing to a safe, energy-efficient and comfortable rail commute. The ‘Atal Tunnel’, one of the world’s 
+longest and highest-altitude tunnels which was inaugurated by Honorable Prime Minister of India, Shri Narendra Modi, has also 
+been equipped with the Company’s state-of-the-art automation technologies.
+In a step to meet the increasing demand for electrification across industry, infrastructure and buildings in India, the Company 
+also signed an agreement to acquire New Delhi-based C&S Electric Limited. The acquisition has further received the regulatory 
+approval of the Competition Commission of India. This will strengthen the Company’s portfolio not only in India, but also for 
+export to competitive international markets. In addition, the Company’s Board of Directors approved the sale of the Mechanical 
+Drives business to Siemens AG, which has subsequently announced its intention to sell the business to Carlyle Group.
+Digitalization
+During the financial year 2020, the Company’s digitalization portfolio saw renewed interest from customers particularly in the 
+Pharma, Food and Beverage, Automotive and Power Distribution segments enabling increased productivity and flexibility. The 
+Company also won an order from Lalitpur Power Generation Company Limited (LPGCL), a Bajaj Group company, for advanced 
+
+Chairman’s statement
+
+
+
+Annual Report 2020 Siemens Limited6
+
+digital solutions for LPGCL’s power plant located in Lalitpur, Uttar Pradesh. The Company will provide a complete thermal twin 
+for the LPGCL coal-fired power plant, enabling improvements in the plant’s performance.
+The Company also introduced digital solutions for resilient workplaces to adapt to the ‘new normal’. This includes IoT solutions 
+that support adherence to social distancing and contact tracing guidelines, body temperature detection integrated with access 
+control, indoor air quality optimization and secured remote monitoring of a building’s systems.
+
+Business Responsibility 
+The Company has undertaken several sustainability initiatives to address issues of the environment, foster sustainable local 
+development while also promoting Skill Development in the country. These initiatives, generally known as Corporate Social 
+Responsibility (CSR), are referred to as Corporate Citizenship at Siemens. The Corporate Citizenship initiatives are in line with 
+the Company’s goal and focus on: Education & Science, Social and Environment. 
+The Company’s response to the COVID-19 pandemic focused on strengthening the public health system and subsequently 
+supporting the most vulnerable members of the society. 
+In tough and uncertain times, the company pledged a total contribution of ̀  20 crore towards fighting COVID-19. The interventions 
+included set up of a COVID-19 Testing Lab, state-of-the-art Computed Tomography scanner for treatment of COVID-19 patients, 
+75,000 units of COVID-19 testing kits (PCR tests and Antibody tests), 50 ventilators to several government hospitals across India 
+and 500,000 surgical masks and 100,000 gloves to frontline health workers. The Company also supported 25,000 migrant and 
+daily wage workers with dry rations and hygiene kits. 
+In the area of education, the Company’s scholarship program completed its eighth year and so far, has provided holistic 
+development support to 735 engineering students from 77 government engineering colleges across 23 States of India. Fifty 
+percent of these scholarships are offered to girls. The program received recognition within the Siemens world when it won the 
+Werner von Siemens 2020 Award in the Siemens Matters category.
+The Company also signed a Joint Declaration of Intent with the Ministry of Skill Development and Entrepreneurship, Government 
+of India (MSDE), Federal Ministry for Economic Cooperation and Development of the Federal Republic of Germany (BMZ) to 
+create framework conditions for high-quality training in India based on Dual Vocational Education and Training (Dual VET). The 
+Company is supporting long-term research & development through the concept of a Digital Transformation Lab at the Indian 
+Institute of Science (IISc) in Bengaluru. The new Lab has been fitted with a premium digital industry software suite. The lab will 
+support the skilling of graduate and research students of the institution. 
+In the area of sustainable communities and environment, the Company’s Project Asha focuses on 72 villages in Palghar and 
+Aurangabad through interventions in education, healthcare, sanitation, water conservation, energy, livelihood and governance. 
+The Project has helped provide potable water as well as water for irrigation in numerous villages – over 150 million liters of 
+rainwater have been harvested and over 1,100 acres of arable land brought under irrigation in the two districts. The project 
+focused on watershed development ensuring the availability of drinking water and water for irrigation. Earlier the community 
+relied on Paddy and Ragi crops, which was for mere consumption purposes. With the availability of water, vegetable cultivation 
+in the Kharif season has been introduced. This year the main efforts have concentrated around livelihood.
+
+People Excellence
+The Company placed utmost priority on the safety, health and well-being of its employees. A cross-functional Siemens Taskforce 
+was constantly reviewing the rapidly changing situation to ensure that measures are always continuously implemented to keep 
+employees safe during the pandemic period while also attempting to ensure business continuity. 
+Regular Townhalls and ‘pulse checks’ were conducted to engage with employees, monitor stress levels, gather feedback on 
+various initiatives and support employees to maintain a work-life balance. A team of medical experts from the Company were 
+available to provide preventive healthcare support and also to support employees who needed medical care. The Company 
+is also extremely proud of its project and service engineers who worked under very difficult conditions to ensure that critical 
+facilities in hospitals, diagnostic centers and essential infrastructure & services continue to function & remain operational.
+In addition to the above, the Company lays great stress on ensuring a Zero Harm Culture for each one of its employees as well 
+as all employees working on a contractual basis. During the year, several measures were introduced to ensure the health and 
+safety at all offices, factories and project sites. 
+Many initiatives have been taken by the Company to make it an employer of choice and a great place to work. The ongoing 
+initiatives are centered around competency building, career development and creating an environment of empowerment and 
+trust. 
+
+Chairman’s statement
+
+
+
+Annual Report 2020 Siemens Limited 7
+
+Outlook 
+While there are unprecedented challenges that have risen due to the pandemic, green-shoots and demand revival in various 
+sectors are now visible. The government’s stimulus packages, efforts to introduce favorable reforms and policies are steps in 
+the right direction. These are very encouraging signs for the manufacturing sector and a boost to exports. It is imperative that 
+domestic demand picks up for economic growth to sustain, which will require government investments in infrastructure and 
+large projects. 
+India’s GDP is expected to revive on the back of digitization, globalization, favorable demographics, and reforms. The Company 
+is fully aligned to support the ‘Atmanirbhar Bharat’ program announced by the Honorable Prime Minister with its offerings to 
+support the various initiatives of Make in India, Digital India, Power for All, Smart Cities, Modernization of the Railways, etc. 
+The Company has also witnessed heightened interest from customers for Digitalization solutions to enable them to reduce their 
+Capex requirements, save cash and increase their productivity. Being a global leader in Automation and Digitalization coupled 
+with a strong local footprint, the Company is in an advantageous position to enable greater productivity and be the preferred 
+choice for customers across all business segments. 
+In conclusion, I would like to wish, good health and safety and sincerely thank our customers, the board, the management, 
+unions and most importantly, the dedicated employees for their consistent support and commitment to Siemens Limited during 
+another challenging year.
+
+Deepak Parekh
+Chairman
+
+
